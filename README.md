@@ -16,9 +16,9 @@ In the iconic work "The Hitchhiker's Guide to the Galaxy" by Douglas Adams, the 
 
 ## Usage
 
-1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://github.com/your-username/42-project.git`.
-2. **Install Dependencies:** Install the required dependencies by running `pip install transformers wikipedia-api`.
-3. **Run the Script:** Open your terminal and navigate to the project directory. Run the script `python 42_QA_Model.py`.
+1. **Clone the Repository:** Clone this repository to your local machine using `git clone https://github.com/NextProduction/42.git`.
+2. **Install Dependencies:** Install the required dependencies by running `pip install transformers wikipedia-api torch`.
+3. **Run the Script:** Open your terminal and navigate to the project directory. Run the script `python 42.py`.
 4. **Ask a Question:** Input your question when prompted and watch as the 42 Project works its magic.
 5. **Explore the Universe:** Sit back, relax, and let the answers unfold before you.
 
